@@ -11,7 +11,7 @@ npm run build     # production build → dist/
 npm run preview   # preview the production build
 ```
 
-## Sections
+## Sections in 
 
 - **Hero** — intro with a magnetic-hover portrait (your real photo, masked into a soft radial fade) and a bottom bar with tagline + contact CTA.
 - **Marquee** — two rows of real tool/skill tiles (Python, FastAPI, React, Docker, n8n, Claude API, Scikit-learn, Tableau, etc.) that drift based on scroll position.
